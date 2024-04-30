@@ -328,7 +328,7 @@ body {
 }
 
 .social-icon {
-  fill: #ffffff;
+  fill: #f4f4fd;
 }
 
 /* ===== OUR PORTFOLIO ===== */
@@ -406,6 +406,7 @@ body {
 
 .footer-container {
   display: flex;
+  align-items: baseline;
 }
 
 .footer-logo-container {
